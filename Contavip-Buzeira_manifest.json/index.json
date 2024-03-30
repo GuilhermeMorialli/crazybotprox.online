@@ -1,0 +1,30 @@
+{
+    "name": "Contavip Buzeira",
+    "short_name": "Contavip Buzeira",
+    "start_url": "https://aplicativo.bet/Contavip-Buzeira",
+    "display": "standalone",
+    "theme_color": "#282834FF",
+    "background_color": "#0C1624FF",
+    "orientation": "any",
+    "status_bar": "black",
+    "splash": {
+        "640x1136": "/storage/company-1-favicon-1709633433.png",
+        "750x1334": "/storage/company-1-favicon-1709633433.png",
+        "828x1792": "/storage/company-1-favicon-1709633433.png",
+        "1125x2436": "/storage/company-1-favicon-1709633433.png",
+        "1242x2208": "/storage/company-1-favicon-1709633433.png",
+        "1242x2688": "/storage/company-1-favicon-1709633433.png",
+        "1536x2048": "/storage/company-1-favicon-1709633433.png",
+        "1668x2224": "/storage/company-1-favicon-1709633433.png",
+        "1668x2388": "/storage/company-1-favicon-1709633433.png",
+        "2048x2732": "/storage/company-1-favicon-1709633433.png"
+    },
+    "icons": [
+        {
+            "src": "/storage/company-1-favicon-1709633433.png",
+            "type": "image\/png",
+            "sizes": "64x64 32x32 24x24 16x16 72x72 96x96 128x128 144x144 152x152 192x192 384x384",
+            "purpose": "any"
+        }
+    ]
+}
